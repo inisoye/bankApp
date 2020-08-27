@@ -1,17 +1,32 @@
-credit, Ini, 20000, , To No One
-debit, Ini, 3000, , To No One
-transfer, Ini, 2000, flexing, To No One
-credit, Ini, 20000, , To No One
-debit, Ini, 3000, , To No One
-transfer, Ini, 2000, flexing, To No One
-credit, Ini, 20000, , To No One
-debit, Ini, 3000, , To No One
-transfer, Ini, 2000, flexing, To No One
-credit, Ini, 20000, , To No One
-debit, Ini, 3000, , To No One
-transfer, Ini, 2000, flexing, To No One
-credit, Ini, 20000, , To No One
-debit, Ini, 3000, , To No One
-debit, Ini, 2000, , To No One
-credit, ayo, 2000, , To No One
-transfer, Ini, 2000, flexing, To No One
+deposit, credit, 20000, Ini, , To No One
+withdrawal, debit, 3000, Ini, , To No One
+transfer, debit, 2000, Ayo, flexing, To No One
+transfer, credit, 2000, Ini, flexing, To No One
+deposit, credit, 20000, Ini, , To No One
+withdrawal, debit, 3000, Ini, , To No One
+transfer, debit, 2000, Ayo, flexing, To No One
+transfer, credit, 2000, Ini, flexing, To No One
+deposit, credit, 20000, Ini, , To No One
+withdrawal, debit, 3000, Ini, , To No One
+transfer, debit, 2000, Ayo, flexing, To No One
+transfer, credit, 2000, Ini, flexing, To No One
+deposit, credit, 20000, Ini, Ini, 
+withdrawal, debit, 3000, Ini, Ini, 
+transfer, debit, 2000, Ini, Ayo, flexing
+transfer, credit, 2000, Ayo, Ini, flexing
+deposit, credit, 20000, Ini, Ini, 
+withdrawal, debit, 3000, Ini, Ini, 
+transfer, debit, 2000, Ini, Ayo, flexing
+transfer, credit, 2000, Ayo, Ini, flexing
+deposit, credit, 20000, Ini, Ini, 
+withdrawal, debit, 3000, Ini, Ini, 
+transfer, debit, 2000, Ini, Ayo, flexing
+transfer, credit, 2000, Ayo, Ini, flexing
+deposit, credit, 20000, Ini, Ini, 
+withdrawal, debit, 3000, Ini, Ini, 
+transfer, debit, 2000, Ini, Ayo, flexing
+transfer, credit, 2000, Ayo, Ini, flexing
+deposit, credit, 20000, Ini, Ini, 
+withdrawal, debit, 3000, Ini, Ini, 
+transfer, debit, 2000, Ini, Ayo, flexing
+transfer, credit, 2000, Ayo, Ini, flexing
